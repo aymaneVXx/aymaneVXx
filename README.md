@@ -8,7 +8,7 @@ My profile combines:
 
 - **Strong mathematical foundations** (probability, statistics, optimization, MCMC, Gaussian Processes)  
 - **Hands-on machine learning experience** (ML, Deep Learning, Optimal Transport, Time-Series, MILP)  
-- **Robust software engineering & web development skills** (React, asp.Net, FastAPI, cloud deployment)
+- **Robust software engineering & web development skills** (Angular, Asp.Net Core, FastAPI, Cloud deployment)
 - **GenAI & LLM-based systems**  
 
 ## 🎓 Education
@@ -31,7 +31,7 @@ My profile combines:
 <div>
   
 - **Python** : ML/DL pipelines, optimization models, GenAI
-- **JavaScript / C#**: full-stack applications, React/asp.Net 
+- **JavaScript / C#**: full-stack applications
 - **R**, **Java**, **SQL**  
 - **HTML5**, **CSS3**
 
@@ -39,27 +39,16 @@ My profile combines:
 
 ---
 
-### 🔹 Data Science
+### 🔹 Data Science and AI
 <div>
 
 - **Machine Learning**: supervised/unsupervised learning, model evaluation, feature engineering  
-- **Deep Learning**: CNNs, Transformers, LLMs
+- **Deep Learning**: CNN, RNN, LSTM, GRU
 - **Optimal Transport** (POT), **DTW**, **Clustering**, **Time-Series Forecasting**  
 - **Optimization**: Mixed-Integer Linear Programming (MILP), meta-heuristics  
-
-</div>
-
----
-
-### 🔹 LLMs & GenAI
-<div>
-
-- **RAG pipelines**: hybrid retrieval, vector databases (Pinecone, Chroma)  
-- **Fine-tuning**: LoRA / QLoRA, prompt tuning, PEFT  
-- **Inference**: vLLM, KV cache optimization  
-- **LangChain**, **LlamaIndex**, Agents building 
-- **HuggingFace**: transformers, datasets, tokenizers  
-
+- **HuggingFace**: transformers, datasets, tokenizers
+- **Fine-tuning**: LoRA / QLoRA, prompt tuning
+- **RAG pipelines**: hybrid retrieval, vector databases 
 </div>
 
 ---
@@ -67,8 +56,8 @@ My profile combines:
 ### 🔹 Web Development
 <div>
 
-- **Frontend**: React, TailwindCSS
-- **Backend**: FastAPI, asp.Net
+- **Frontend**: Angular, TailwindCSS
+- **Backend**: FastAPI, Asp.Net Core
 - **Deployment**: AWS Lambda & EC2  
 
 </div>
@@ -78,11 +67,10 @@ My profile combines:
 ### 🔹 Data Engineering & Databases
 <div>
 
-- **Databases**: MongoDB, MySQL, SQLite, Neo4j  
-- **Vector DBs**: Pinecone, Chroma  
-- **Big Data**: Spark, Hadoop  
+- **Databases**: MongoDB, MySQL, SQLite, Neo4j, Pinecone, Chroma 
+- **Big Data**: Spark, Hadoop, scala
 - **Indexing algorithms**: B-trees, Bloom filters, tries, hashing  
-- **Data pipelines**, ETL, preprocessing
+- **Data pipelines**: ETL, preprocessing
 
 </div>
 
@@ -92,9 +80,9 @@ My profile combines:
 ### 🔹 Tools & DevOps
 <div>
 
-- Git & GitHub  
+- Git & GitHub, Github Actions, AzureDevops 
 - Docker, AWS  
-- VSCode, Jupyter
+- VSCode, Jupyter, visual studio
 - Linux environment, bash scripting
 
 </div>
